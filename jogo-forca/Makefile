@@ -1,0 +1,1 @@
+CXXFLAGS = -stdc++11
