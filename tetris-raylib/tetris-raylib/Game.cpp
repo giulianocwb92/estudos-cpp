@@ -2,10 +2,19 @@
 #include <raylib.h>
 #include <assert.h>
 
-Game::Game(int width, int height, std::string title)
+Game::Game(int width, int height, int fps, std::string title)
+	:
+	board({ 200, 200 }, { 10, 20 }, 15, 2)
 {
 	assert(!GetWindowHandle()); //Verifica se a janela já está aberta.
+	SetTargetFPS(fps);
 	InitWindow(width, height, title.c_str());
+	for (int iY = 0; iY < 20; iY++)
+	{
+		for (int iX = 0; iX < 10; ++iX) {
+			board.SetCell({ iX, iY }, RED);
+		}
+	}
 }
 
 Game::~Game() noexcept
@@ -29,7 +38,8 @@ void Game::Tick()
 
 void Game::Draw()
 {
-	ClearBackground(RAYWHITE);
+	ClearBackground(BLACK);
+	board.Draw();
 }
 
 void Game::Update()

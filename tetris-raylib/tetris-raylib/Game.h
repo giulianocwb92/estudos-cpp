@@ -1,10 +1,11 @@
 #pragma once
 #include <string>
+#include "Board.h"
 
 class Game
 {
 public:
-	Game(int width, int height, std::string title);
+	Game(int width, int height, int fps, std::string title);
 	Game(const Game& other) = delete;
 	Game& operator = (const Game& other) = delete;
 	//Game(const Game&& other) = delete; impede que ocorram cópias ou movimentações de instruções do objeto.
@@ -19,4 +20,5 @@ public:
 private:
 	void Draw();
 	void Update();
+	Board board;
 };
