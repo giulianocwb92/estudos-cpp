@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\raylibCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\raylibCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,6 +19,10 @@
       "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\vec2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\raylibCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\raylibCpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\raylibCpp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1D5EA30E-609D-4E80-B021-C2602E786EED}|tetris-raylib\\tetris-raylib.vcxproj|solutionrelative:tetris-raylib\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "raylibCpp.cpp",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\raylibCpp.cpp",
               "RelativeDocumentMoniker": "tetris-raylib\\raylibCpp.cpp",
               "ToolTip": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\raylibCpp.cpp",
               "RelativeToolTip": "tetris-raylib\\raylibCpp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABeAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-27T22:24:25.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "raylibCpp.h",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\raylibCpp.h",
               "RelativeDocumentMoniker": "tetris-raylib\\raylibCpp.h",
@@ -67,64 +67,63 @@
               "RelativeToolTip": "tetris-raylib\\raylibCpp.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-27T22:21:04.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T22:21:04.201Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "vec2.h",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\vec2.h",
               "RelativeDocumentMoniker": "tetris-raylib\\vec2.h",
               "ToolTip": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\vec2.h",
               "RelativeToolTip": "tetris-raylib\\vec2.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAXAAAAAAAAAA==",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-27T20:18:44.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.h",
               "RelativeDocumentMoniker": "tetris-raylib\\Game.h",
               "ToolTip": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.h",
               "RelativeToolTip": "tetris-raylib\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-27T19:59:00.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.cpp",
               "RelativeDocumentMoniker": "tetris-raylib\\Game.cpp",
               "ToolTip": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Game.cpp",
               "RelativeToolTip": "tetris-raylib\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-27T19:58:54.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Board.cpp",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Board.cpp",
               "RelativeDocumentMoniker": "tetris-raylib\\Board.cpp",
               "ToolTip": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Board.cpp",
               "RelativeToolTip": "tetris-raylib\\Board.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAWwDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-27T19:18:43.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Board.h",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\Board.h",
               "RelativeDocumentMoniker": "tetris-raylib\\Board.h",
@@ -132,12 +131,11 @@
               "RelativeToolTip": "tetris-raylib\\Board.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-27T19:14:30.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T19:14:30.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\giuli\\OneDrive\\Documentos\\GitHub\\estudos-cpp\\tetris-raylib\\tetris-raylib\\main.cpp",
               "RelativeDocumentMoniker": "tetris-raylib\\main.cpp",
@@ -145,8 +143,7 @@
               "RelativeToolTip": "tetris-raylib\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-26T23:14:37.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T23:14:37.586Z"
             }
           ]
         }
