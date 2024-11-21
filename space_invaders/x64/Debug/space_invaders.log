@@ -1,1 +1,15 @@
-﻿
+﻿  Game.cpp
+  laser.cpp
+  main.cpp
+C:\Users\giuli\OneDrive\Documentos\GitHub\estudos-cpp\space_invaders\space_invaders\spaceship.h(2,10): error C1083: Não é possível abrir arquivo incluir: 'raylib.h': No such file or directory
+  spaceship.cpp
+  (compilando o arquivo fonte 'Game.cpp')
+  
+C:\Users\giuli\OneDrive\Documentos\GitHub\estudos-cpp\space_invaders\space_invaders\laser.h(2,10): error C1083: Não é possível abrir arquivo incluir: 'raylib.h': No such file or directory
+  (compilando o arquivo fonte 'laser.cpp')
+  
+C:\Users\giuli\OneDrive\Documentos\GitHub\estudos-cpp\space_invaders\space_invaders\main.cpp(1,10): error C1083: Não é possível abrir arquivo incluir: 'raylib.h': No such file or directory
+C:\Users\giuli\OneDrive\Documentos\GitHub\estudos-cpp\space_invaders\space_invaders\spaceship.h(2,10): error C1083: Não é possível abrir arquivo incluir: 'raylib.h': No such file or directory
+  (compilando o arquivo fonte 'spaceship.cpp')
+  
+  Gerando Código...

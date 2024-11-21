@@ -1,0 +1,7 @@
+﻿  game.cpp
+  main.cpp
+  Gerando Código...
+main.obj : error LNK2019: símbolo externo não resolvido, "public: void __cdecl Game::update(void)" (?update@Game@@QEAAXXZ), referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, "public: void __cdecl Game::render(void)" (?render@Game@@QEAAXXZ), referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, "public: void __cdecl Game::reset(void)" (?reset@Game@@QEAAXXZ), referenciado na função main
+C:\Users\giuli\OneDrive\Documentos\GitHub\estudos-cpp\asteroids_clone\x64\Debug\asteroids_clone.exe : fatal error LNK1120: 3 externo não resolvidos
